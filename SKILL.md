@@ -330,3 +330,9 @@ description: 分析 AI 对任意行业的冲击。两阶段执行：先联网检
 - 末尾声明：内容由 AI 生成，仅供参考；前瞻判断不构成职业建议。
 
 *（内容由AI生成，仅供参考）*
+
+## License
+
+This Skill is licensed under the MIT License. The complete license text is included in [LICENSE](LICENSE).
+
+SPDX-License-Identifier: MIT
