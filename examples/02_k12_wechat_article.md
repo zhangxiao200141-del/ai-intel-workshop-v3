@@ -1,3 +1,18 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 42211752d5fc29c5497117e7b5b7dd8e_063151b69a3911f19467525400287e28
+    ReservedCode1: an3upA+fyaBW+0js4nSV7miIWnMd/Q/HM+sbMsiu3jU/ogjvir/FNoF+4O18mKfzIAxIedB0aEY9/2BW+9rkNCVNOrZY/lU8TggtWnwhRuIGeS1TVpo9/gJID1XiyRerNZGFwXvmlslVArRffaxdmfiyOHZcJf9ud4Mogid6jN/Qe6O0m9ULED/4XKs=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 42211752d5fc29c5497117e7b5b7dd8e_063151b69a3911f19467525400287e28
+    ReservedCode2: an3upA+fyaBW+0js4nSV7miIWnMd/Q/HM+sbMsiu3jU/ogjvir/FNoF+4O18mKfzIAxIedB0aEY9/2BW+9rkNCVNOrZY/lU8TggtWnwhRuIGeS1TVpo9/gJID1XiyRerNZGFwXvmlslVArRffaxdmfiyOHZcJf9ud4Mogid6jN/Qe6O0m9ULED/4XKs=
+---
+
+
+
+
+
 # AI 进课堂一年，谁先被替代？一份 K12 教育冲击信号报告
 
 2026 年 5 月，杭州建兰中学八年级学生齐昕悦在"建兰书童"里敲下一行字："八年级要重新选社团了，能给我点建议吗？"几秒钟后，这个智能体调取她过去一年的社团参与记录、任课教师评价，给出了一份比多数班主任更"懂她"的建议。
