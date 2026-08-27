@@ -27,4 +27,4 @@ ai-intel-workshop/
 
 ## License
 
-[MIT](./ai-intel-workshop/LICENSE)
+[LICENSE](LICENSE)
