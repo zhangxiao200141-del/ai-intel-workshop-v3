@@ -1,18 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 42211752d5fc29c5497117e7b5b7dd8e_05569f969a3911f1a98a525400f8a581
-    ReservedCode1: euxuCTiwkVzQfOgF3bzVY+FCFjZNWiWosfp1MG/4n5ebVETLps6XXmHfgEaKRe/my4ds4efJt0ZYA272LAMohw+Ln6llReASnPCQVrYwqxOYpcN/MCXlPCpw0Q3Y897com1NpcVoZXj5SAWT+uT5ZRhgt76wamdwqVvtnqDfKnRr6djRq4HJKV/fP50=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 42211752d5fc29c5497117e7b5b7dd8e_05569f969a3911f1a98a525400f8a581
-    ReservedCode2: euxuCTiwkVzQfOgF3bzVY+FCFjZNWiWosfp1MG/4n5ebVETLps6XXmHfgEaKRe/my4ds4efJt0ZYA272LAMohw+Ln6llReASnPCQVrYwqxOYpcN/MCXlPCpw0Q3Y897com1NpcVoZXj5SAWT+uT5ZRhgt76wamdwqVvtnqDfKnRr6djRq4HJKV/fP50=
----
-
-
-
-
-
 # K12 教育行业 AI 冲击信号报告
 
 - 行业：K12 教育
