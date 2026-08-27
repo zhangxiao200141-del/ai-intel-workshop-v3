@@ -27,4 +27,6 @@ ai-intel-workshop/
 
 ## License
 
-[LICENSE](LICENSE)
+This Skill is licensed under the MIT License. The complete license text is included in [LICENSE](LICENSE).
+
+SPDX-License-Identifier: MIT
